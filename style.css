@@ -4,3 +4,15 @@ h3{
 h2{
     color: darkgoldenrod;
 }
+#selectorId{
+    color: cadetblue;
+}
+
+.caja{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(64, 16, 235);
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 2em;
+}
